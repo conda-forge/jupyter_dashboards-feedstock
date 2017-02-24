@@ -11,6 +11,18 @@ Summary: Jupyter Dashboards Layout Extension
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/jupyter_dashboards-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/jupyter_dashboards-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/jupyter_dashboards-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/jupyter_dashboards-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/jupyter_dashboards-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/jupyter-dashboards-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jupyter_dashboards/badges/version.svg)](https://anaconda.org/conda-forge/jupyter_dashboards)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jupyter_dashboards/badges/downloads.svg)](https://anaconda.org/conda-forge/jupyter_dashboards)
+
 Installing jupyter_dashboards
 =============================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `jupyter_dashboards` available on 
 ```
 conda search jupyter_dashboards --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/jupyter_dashboards-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/jupyter_dashboards-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/jupyter_dashboards-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/jupyter_dashboards-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/jupyter_dashboards-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/jupyter-dashboards-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jupyter_dashboards/badges/version.svg)](https://anaconda.org/conda-forge/jupyter_dashboards)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jupyter_dashboards/badges/downloads.svg)](https://anaconda.org/conda-forge/jupyter_dashboards)
 
 
 Updating jupyter_dashboards-feedstock
