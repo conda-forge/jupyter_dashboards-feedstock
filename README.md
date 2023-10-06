@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jupyter_dashboa
 
 Home: http://github.com/jupyter-incubator/dashboards
 
-Package license: BSD 3-Clause
+Package license: BSD-3-Clause
 
 Summary: Jupyter Dashboards Layout Extension
 
