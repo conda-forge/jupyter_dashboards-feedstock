@@ -10,7 +10,8 @@ source:
   sha256: 69a8dcb85acda20862bd2c52b97f9c5b5f0fbc23c73c2824460269d0622b0b20
 
 build:
-  noarch: python
+  # This cannot be noarch because of link scripts.
+  # noarch: python
   number: 1005
   script: python setup.py install --single-version-externally-managed --record record.txt
   entry_points:
@@ -18,10 +19,10 @@ build:
 
 requirements:
   host:
-    - python >=3.4
+    - python
     - setuptools
   run:
-    - notebook >=3.4
+    - notebook
     - python
     - traitlets
 
