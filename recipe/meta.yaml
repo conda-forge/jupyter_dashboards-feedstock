@@ -22,7 +22,7 @@ requirements:
     - python
     - setuptools
   run:
-    - notebook
+    - notebook <7
     - python
     - traitlets
 
